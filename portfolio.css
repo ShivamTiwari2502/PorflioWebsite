@@ -1,0 +1,16 @@
+* {
+    background-color: #DAD2FF;
+    font-family: monospace;
+}
+h1{
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    color: #493D9E;
+}
+#name{
+    color: white;
+}
